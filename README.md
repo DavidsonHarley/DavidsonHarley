@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladislav</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Vladislav" alt="Typing SVG" /></a></h1>
 <h3 align="center">Fullstack developer</h3>
 
 <h3>What I like:</h3>
